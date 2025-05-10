@@ -6,6 +6,7 @@
 
 - **Virtualisasi & Server**
 - **Otomatisasi & Scripting**
+- **Network Security**
 
 ---
 
